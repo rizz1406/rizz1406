@@ -8,18 +8,19 @@
 <br>
 <div align="left">
 
-## 🌟 About Me 🌟
+## About Me!
 
-🎓 **Final Year B.Tech Student** in **Computer Science and Engineering**  
+🎓 **Final Year B.Tech Student** in **Computer Science and Design**  
 
 💡 **Aspiring Data Analyst** passionate about transforming data into actionable insights  
 
-📊 **Data Researcher Intern** at **Collegedunia**, working on real-world datasets  
+📊 **Data Researcher Intern** at **CollegeDunia**
 
 🚀 **Currently Learning:** Advanced **SQL**, **Python**, **Power BI**, and **Data Visualization**  
+
 🤖 **Exploring Machine Learning** concepts to broaden my analytical skill set  
 
-🌿 **Open to Opportunities:** Seeking **Internships** and **Projects** in **Data Analysis** and **AI**  
+🌿 **Open to Opportunities:** Seeking **Internships** and **Entry-Level Roles** in **Data Analysis**
 
 ⚙️ **Skills:** **Python**, **SQL**, **Excel**, **Power BI**, and **Data Research**  
 

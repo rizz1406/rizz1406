@@ -6,21 +6,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Data+Enthusiast.;Student.;Turning+Data+into+Insights!" alt="Typing SVG" />
 </div>
 <br>
-<div align="left">
+<div align="center">
 
-- 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering**
+### 🌟 About Me 🌟
 
-- 🏢 Currently working as **Data Researcher Intern at Collegedunia**
+🎓 **B.Tech in Computer Science and Engineering** — Final Year Student  
+💡 **Aspiring Data Analyst** passionate about turning data into actionable insights  
+📊 **Data Researcher Intern** at *Collegedunia*, exploring real-world datasets  
+🚀 Currently enhancing my skills in **SQL, Python, and Data Visualization**  
+🤝 **Let's Connect** to talk about **Data Analytics, AI Tools, and Problem Solving**  
 
-- 🌱 I’m currently learning **Advanced SQL, Python, and Data Visualization**
-
-- 💬 Ask me about **SQL, Python, Power BI, Excel, Data Analytics...**
-
-- 📫 How to reach me **rizwanmirza95551@gmail.com**
-
-- 📄 My portfolio [[Portfolio Link]](https://rizz1406.github.io/)
+📬 Reach me at: **rizwanmirza95551@gmail.com**  
+🌐 Check out my Portfolio: [**Portfolio Link**](https://rizz1406.github.io/)
 
 </div>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>

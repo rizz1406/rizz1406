@@ -68,6 +68,6 @@
 </p>
 
 <div align="center">
-<pre align="center">🌟 Keep exploring and creating data-driven stories! 🌟</pre>
+<pre align="center">📊 Transforming data into stories that inspire insights! 🚀</pre>
 <br><br><br>
 </div>

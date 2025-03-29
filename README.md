@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/rizz1406/Rizwan/refs/heads/main/assets/linkedinBanner-ezgif.com-video-to-gif-converter.gif)
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Hello+hello...!" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Student.;Aspiring+Data+Analyst.;Problem+Solver.;Turning+Data+into+Insights!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=%E2%98%86+I'm+Rizwan%2C+Turning+data+into+insights+%E2%98%86" alt="Typing SVG" />
 <br>
 <div align="left">
 
@@ -41,6 +41,7 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="Excel" width="40" height="40"/> 
 </a>
+
 </p>
 <div align="center">
 <pre align="center">🌟 Keep exploring and creating data-driven stories! 🌟</pre>

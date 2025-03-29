@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/rizz1406/rizz1406/refs/heads/main/assets/linkedinBanner-ezgif.com-video-to-gif-converter.gif)
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Hello+hello...!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Welcome+to+my+GitHub+Profile!" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Student.;Aspiring+Data+Analyst.;Problem+Solver.;Turning+Data+into+Insights!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Data+Enthusiast.;Student.;Turning+Data+into+Insights!" alt="Typing SVG" />
 </div>
 <br>
 <div align="left">

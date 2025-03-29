@@ -1,25 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/rizz1406/rizz1406/refs/heads/main/assets/linkedinBanner-ezgif.com-video-to-gif-converter.gif)
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Hello+hello...!" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Welcome+to+my+GitHub+Profile!" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Student.;Aspiring+Data+Analyst.;Problem+Solver.;Turning+Data+into+Insights!" alt="Typing SVG" />
-</div>
-<br>
-<div align="left">
-
-- 🔭 I’m currently pursuing **B.Tech in Computer Science and Engineering**
-
-- 🏢 Currently working as **Data Researcher Intern at Collegedunia**
-
-- 🌱 I’m currently learning **Advanced SQL, Python, and Data Visualization**
-
-- 💬 Ask me about **SQL, Python, Power BI, Excel, Data Analytics...**
-
-- 📫 How to reach me **rizwanmirza95551@gmail.com**
-
-- 📄 My portfolio [[Portfolio Link]](https://rizz1406.github.io/)
-
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=Hi,+I'm+Rizwan!;Data+Enthusiast.;Student.;Turning+Data+into+Insights!" alt="Typing SVG" />
 </div>
 <br>
 

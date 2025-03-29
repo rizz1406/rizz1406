@@ -10,19 +10,19 @@
 
 ## 🌟 About Me 🌟
 
-🎓 **Final Year B.Tech Student** in Computer Science and Engineering  
+🎓 **Final Year B.Tech Student** in **Computer Science and Engineering**  
 
-💡 **Aspiring Data Analyst** passionate about transforming data into insights  
+💡 **Aspiring Data Analyst** passionate about transforming data into meaningful insights  
 
-📊 **Data Researcher Intern** at *Collegedunia*, working with real-world datasets  
+📊 **Data Researcher Intern** at **Collegedunia**, working with real-world datasets  
 
-🚀 Currently enhancing my skills in **SQL, Python, Power BI, and Data Visualization**  
+🚀 **Currently Learning:** Advanced **SQL**, **Python**, **Power BI**, and **Data Visualization**  
 
-🤝 **Let’s Connect** to discuss **Data Analytics, AI Tools, and Problem Solving**  
+🤝 **Let’s Connect** to chat about **Data Analytics**, **AI Tools**, and **Problem Solving**  
 
-📬 **Reach Me At:** rizwanmirza95551@gmail.com  
+📬 **Reach Me At:** **rizwanmirza95551@gmail.com**  
 
-🌐 **Portfolio:** [**Check Out My Work**](https://rizz1406.github.io/)
+🌐 **Portfolio:** [**Explore My Work Here**](https://rizz1406.github.io/)
 
 </div>
 

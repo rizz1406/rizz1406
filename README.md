@@ -1,4 +1,3 @@
-```md
 ![MasterHead](https://raw.githubusercontent.com/rizz1406/rizz1406/refs/heads/main/assets/linkedinBanner-ezgif.com-video-to-gif-converter.gif)
 
 <br>
@@ -121,4 +120,3 @@
 ### 📊 Turning complex data into meaningful business decisions 🚀
 
 </div>
-```

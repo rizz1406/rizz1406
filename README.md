@@ -1,4 +1,4 @@
-```md id="gh9k2m"
+```md
 ![MasterHead](https://raw.githubusercontent.com/rizz1406/rizz1406/refs/heads/main/assets/linkedinBanner-ezgif.com-video-to-gif-converter.gif)
 
 <br>
@@ -44,6 +44,7 @@
 - Product & Performance Analytics
 
 ⚙️ Tech Stack:
+
 `SQL` • `Python` • `GCP` • `Looker Studio` • `Tableau` • `Power BI` • `Excel` • `Pandas`
 
 📊 Previously worked as a **Data Researcher Intern at CollegeDunia**

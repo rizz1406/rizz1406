@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=700&height=55&lines=Hi,+I'm+Rizwan!;Data+Analyst+at+Databeat+Consulting.;SQL+%7C+GCP+%7C+Looker+Studio+%7C+Tableau.;Transforming+Data+into+Business+Insights!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=750&height=55&lines=Hi,+I'm+Rizwan!;Data+Analyst+at+Databeat+Consulting.;SQL+%7C+GCP+%7C+Looker+Studio+%7C+Tableau.;Building+Executive+Dashboards+%26+Analytics+Solutions!" alt="Typing SVG" />
 
 </div>
 
@@ -66,51 +66,25 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
 <a href="https://linkedin.com/in/rizwanbaig001" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rizwan Baig" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
 </a>
-
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,gcp" />
+</p>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-
-<a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" alt="Looker Studio" width="40" height="40"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
